@@ -4,18 +4,8 @@ before run the project:
 make sure you have to consider this:
   Python Version: Python 3.12.1
 -- pip list
-    Package                      Version
-    ---------------------------- ----------
-    certifi                      2023.11.17
-    charset-normalizer           3.3.2
-    idna                         3.6
-    pip                          23.3.2
-    requests                     2.31.0
-    robotframework               7.0
-    robotframework-pythonlibcore 4.3.0
-    robotframework-requests      0.9.6
-    urllib3                      2.1.0
-
+![image](https://github.com/Andisrylsn/RobotFrameWork_API/assets/135946860/dbe28fc9-4dad-47fa-b8f0-176c60f16e64)
+![image](https://github.com/Andisrylsn/RobotFrameWork_API/assets/135946860/cc7467d9-2ef1-480a-8ecf-4dcca1dfecd7)
 
 to see the result of your test
 ![image](https://github.com/Andisrylsn/RobotFrameWork_API/assets/135946860/7e23e075-27b7-4fd7-9f7a-e5d8d013f773)
